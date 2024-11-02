@@ -1,4 +1,4 @@
-# nota
+#  Aplicación de Notas
 
 A new Flutter project.
 
